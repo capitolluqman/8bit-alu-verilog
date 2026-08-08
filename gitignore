@@ -1,0 +1,17 @@
+# Simulation artifacts
+sim
+*.vcd
+*.vvp
+*.wlf
+*.jou
+*.log
+xsim.dir/
+.Xil/
+vivado*.jou
+vivado*.log
+webtalk*.log
+webtalk*.jou
+
+# OS files
+.DS_Store
+Thumbs.db
